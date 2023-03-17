@@ -1,1 +1,8 @@
-/* generic font */
+/* font stack */
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+}
