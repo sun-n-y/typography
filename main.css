@@ -4,13 +4,18 @@
 
 body {
   font-family: "Roboto", sans-serif;
+  text-align: right;
 }
 .main-heading {
   font-family: "Trade Winds", cursive;
+  text-align: center;
 }
 .sub-heading {
 }
 .one {
+  text-align: left;
+  text-indent: 40px;
 }
 .two {
+  text-indent: 50px;
 }
