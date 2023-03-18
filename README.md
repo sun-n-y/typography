@@ -14,6 +14,7 @@ _i put topics into thier own branch to get better at git and git hub. please vie
 - ### font weight and styles
 - ### text align & indent
 - ### text shadow
+- ### list styles
 - ### others
   - letter spacing
   - line height
