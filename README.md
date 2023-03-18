@@ -13,6 +13,7 @@ _i put topics into thier own branch to get better at git and git hub. please vie
 - ### system fonts
 - ### font weight and styles
 - ### text align & indent
+- ### text shadow
 - ### others
   - letter spacing
   - line height
