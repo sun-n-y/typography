@@ -17,6 +17,7 @@ _i put topics into thier own branch to get better at git and git hub. please vie
 - ### list styles
 - ### link styles
   - cursor styles
+- ### floats
 - ### others
   - letter spacing
   - line height
