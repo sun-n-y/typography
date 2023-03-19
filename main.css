@@ -1,1 +1,10 @@
 /* float */
+
+img {
+  width: 100px;
+  float: right;
+  margin: 10px;
+}
+.container {
+  width: 50vw;
+}
